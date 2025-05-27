@@ -8,7 +8,7 @@
 
 <div align="center">
  
- 👀 I’m interested in programming,
+ 😊 I’m interested in programming,
  
  💞️ I’m looking to collaborate on every aspect of programming.
  
