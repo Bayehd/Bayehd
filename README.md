@@ -12,7 +12,7 @@
  
  💞️ I’m looking to collaborate on every aspect of programming.
  
- 💬 Ask me about **Node.js, React, React Native, Firebase, SQL.
+ 💬 Ask me about **Node.js, React, React Native, Firebase, SQL, PostgreSQL.
  
  📫 How to reach me  through my email and linkedIn...
 
